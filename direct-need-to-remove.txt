@@ -8,6 +8,7 @@ bussou.com
 busytrade.com
 cnpolitics.org
 dm530.net
+dns.weixin.qq.com
 duanzhihu.com
 dysfz.cc
 galaxymacau.com
@@ -23,6 +24,7 @@ nytlog.com
 shuangtv.net
 suppig.net
 top
+weixin.qq.com
 xclient.info
 xjp.cc
 yanghengjun.com
